@@ -20,8 +20,6 @@ rotas para as entidades mapeadas).
 
 ## OBJETIVOS
 
-Utilizar o padrão MVC;
-
 ⇨ Utilizar os verbos HTTP seguindo o padrão REST;
 
 ⇨ Implementar todas as operações de CRUD;
@@ -53,3 +51,9 @@ As rotas a serem desenvolvidas para as entidades são:
 ⇨ Modificação de um registro;
 
 ⇨ Deleção de um registro
+
+![image](https://user-images.githubusercontent.com/113526718/223134446-098742fe-6441-4f5e-a248-fdc5bcda6809.png)
+
+![image](https://user-images.githubusercontent.com/113526718/223134518-617c828b-108d-4b6d-adf4-9a57c961426b.png)
+
+
