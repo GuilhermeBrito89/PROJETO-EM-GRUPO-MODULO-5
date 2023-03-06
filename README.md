@@ -1,6 +1,36 @@
 # PROJETO-EM-GRUPO-MODULO-5
 PROJETO EM GRUPO DO MODULO 5 - PROGRAMADORES CARIOCAS
 
+# RODANDO O PROJETO
+
+## Installation
+
+### Client
+
+  1. `$ cd client`
+  2. `$ npm install` or `$ yarn install`
+  3. `$ npm start` or `$ yarn start`
+  
+### Server
+
+  1. Change your mySQL database data `server/index.js`
+  2. `$ cd server`
+  3. `$ npm install` or `$ yarn`
+  4. `$ npm rum devStart`
+
+### Front-end
+
+ + `@material-ui`
+ +  `Axios`
+
+### Back-end
+
++ `express`
++ `mysql`
++ `nodemon`
++ `cors`
+
+
 ## CONTEXTO
 Você e sua equipe foram escalados para desenvolverem
 propostas de APIs que serão o produto mínimo viável de um
